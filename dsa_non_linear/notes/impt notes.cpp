@@ -1,0 +1,1 @@
+    // std::fill_n(arr,n,-1);     (is used to fill array arr of size n with all value -1)
